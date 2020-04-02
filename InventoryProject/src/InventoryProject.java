@@ -1,5 +1,7 @@
 import java.util.Scanner;
 public class InventoryProject {
+	
+	//Cole Lamers
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
